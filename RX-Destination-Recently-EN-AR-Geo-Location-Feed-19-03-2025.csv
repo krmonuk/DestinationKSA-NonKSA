@@ -5,9 +5,9 @@
 ## RECSThe last 100 columns (entity.custom1 - entity.custom100) are custom. The name 'customN' can be replaced with a custom name such as 'onSale' or 'brand'.,,,,,,,,,,,,,,
 ## RECSIf the products already exist in Recommendations then changes uploaded here will override the data in Recommendations. Any new attributes entered here will be added to the product''s entry in Recommendations.,,,,,,,,,,,,,,
 ## RECSentity.id,entity.name,entity.categoryId,entity.message,entity.thumbnailUrl,entity.value,entity.pageUrl,entity.inventory,entity.margin,entity.destinationCode,entity.sourceCode,entity.currency,entity.language,entity.sku,entity.date
-RUH-CDG-EN,FRANCE,riyadhair:kingdom-of-saudi-arabia,Bonjour Paris,https://s7g10.scene7.com/is/image/aviationservicesstage/paris-1,66,discover-riyadh,500,0,CDG,RUH,SAR,en,RUH-CDG,12-12-2024
-JFK-CDG-EN,FRANCE,riyadhair:non-ksa,Bonjour Paris,https://s7g10.scene7.com/is/image/aviationservicesstage/paris-1,88,discover-riyadh,500,0,CDG,JFK,SAR,en,JFK-CDG,06-12-2024
-CDG-RUH-EN,Riyadh,riyadhair:non-ksa,An ancient fortress that symbolizes Saudi Arabia's unification,https://s7g10.scene7.com/is/image/aviationservicesstage/riyadh,76,discover-riyadh,500,0,RUH,CDG,SAR,en,CDG-RUH,08-12-2024
+RUH-CDG-EN,FRANCE,riyadhair:kingdom-of-saudi-arabia,Bonjour Paris,https://s7g10.scene7.com/is/image/aviationservicesstage/paris,66,discover-riyadh,500,0,CDG,RUH,SAR,en,RUH-CDG,12-12-2024
+JFK-CDG-EN,FRANCE,riyadhair:non-ksa,Bonjour Paris,https://s7g10.scene7.com/is/image/aviationservicesstage/paris,88,discover-riyadh,500,0,CDG,JFK,SAR,en,JFK-CDG,06-12-2024
+CDG-RUH-EN,TURKEY,riyadhair:non-ksa,Majestic Istanbul,https://s7g10.scene7.com/is/image/aviationservicesstage/frankfrut,76,discover-riyadh,500,0,RUH,CDG,SAR,en,CDG-RUH,08-12-2024
 RUH-BOM-EN,FRANCE,riyadhair:kingdom-of-saudi-arabia,Bonjour Paris,https://s7g10.scene7.com/is/image/aviationservicesstage/paris,72,discover-riyadh,500,0,BOM,RUH,SAR,en,RUH-BOM,08-12-2024
 RUH-JFK-EN,UNITED ARAB EMIRATES,riyadhair:kingdom-of-saudi-arabia,Hala Dubai,https://s7g10.scene7.com/is/image/aviationservicesstage/uae,87,discover-riyadh,500,0,JFK,RUH,SAR,en,RUH-JFK,10-12-2024
 CDG-JFK-EN,Ney York,riyadhair:non-ksa,New York is where the future comes to audition,https://s7g10.scene7.com/is/image/aviationservicesstage/new-york,54,discover-riyadh,500,0,JFK,CDG,SAR,en,CDG-JFK,10-12-2024
@@ -24,7 +24,7 @@ RUH-DXB-EN,Dubai,riyadhair:kingdom-of-saudi-arabia,"Going to Dubai, be back neve
 DEL-SIN-EN,Singapore,riyadhair:non-ksa,"City lights, city sights - Singapore nights.",https://raw.githubusercontent.com/krmonuk/DestinationKSA-NonKSA/refs/heads/main/Singapore.jpg,62,discover-riyadh,500,0,SIN,DEL,SAR,en,SIN-DEL,20-12-2024
 JFK-DMM-EN,Dammam,riyadhair:non-ksa,Lost in Dammam's charm.,https://raw.githubusercontent.com/krmonuk/DestinationKSA-NonKSA/refs/heads/main/Dammam.jpg,69,discover-riyadh,500,0,DMM,JFK,SAR,en,JFK-DMM,20-12-2024
 DMM-KUL-EN,Malaysia,riyadhair:non-ksa,Malaysia’s sunrise: A new day in paradise.,https://raw.githubusercontent.com/krmonuk/DestinationKSA-NonKSA/refs/heads/main/Malaysia.jpg,70,discover-riyadh,500,0,KUL,DMM,SAR,en,DMM-KUL,20-12-2024
-LHR-DEL-EN,New Delhi,riyadhair:non-ksa,"Delhi is a city of dreams, where anything is possible.",https://raw.githubusercontent.com/krmonuk/DestinationKSA-NonKSA/refs/heads/main/New Delhi.jpg,86,discover-riyadh,500,0,DEL,LHR,SAR,en,LHR-DEL,20-12-2024
+LHR-DEL-EN,UNITED ARAB EMIRATES,riyadhair:non-ksa,Hala Dubai,https://s7g10.scene7.com/is/image/aviationservicesstage/uae,86,discover-riyadh,500,0,DEL,LHR,SAR,en,LHR-DEL,20-12-2024
 RUH-CAI-AR,القاهرة,riyadhair:kingdom-of-saudi-arabia,تجربة نابضة بالحياة في قلب مصر,https://raw.githubusercontent.com/dsampang/mbi/main/dist/cairo.png,51,discover-riyadh,500,0,CAI,RUH,SAR,ar,RUH-CAI,20-12-2024
 RUH-JED-AR,جدة,riyadhair:kingdom-of-saudi-arabia,الأنشطة الممتعة التي لا نهاية لها في جدة,https://raw.githubusercontent.com/dsampang/mbi/main/dist/jeddah.jpg,49,discover-riyadh,500,0,JED,RUH,SAR,ar,RUH-JED,20-12-2024
 RUH-LHR-AR,لندن,riyadhair:kingdom-of-saudi-arabia,تجربة نابضة بالحياة في قلب لندن,https://raw.githubusercontent.com/dsampang/mbi/main/dist/london.png,69,discover-riyadh,500,0,LHR,RUH,SAR,ar,RUH-JED,20-12-2024
